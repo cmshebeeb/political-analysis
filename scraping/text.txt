@@ -1,0 +1,5 @@
+This is my scraping studying methods.
+I learned this from YouTube Channel "Alex the analyst"
+
+
+"Scraping Data from a Real Website | Web Scraping in Python"
